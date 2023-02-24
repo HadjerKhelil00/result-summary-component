@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+    height:100%;
+    box-sizing: border-box;
+}
+.your-result{
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    width:400px;
+    text-align: center;
+}
